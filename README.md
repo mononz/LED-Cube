@@ -1,3 +1,5 @@
+LED CUBE
+========
 8x8x8 LED Cube
 
 WARNING!
